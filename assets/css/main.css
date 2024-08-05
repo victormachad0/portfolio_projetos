@@ -355,31 +355,7 @@ hr {
       .row.gtr-200.gtr-uniform > * {
         padding-top: 3em; }
 
-  /* Articles */
-  .article {
-  display: flex;
-  flex-direction: column;
-  margin-bottom: 2em; }
-  .article img {
-    max-width: 100%;
-    height: auto; }
-  .article .content {
-    display: flex;
-    flex-direction: column; }
-  .article h2 {
-    margin-top: 0; }
-  .article p {
-    margin-bottom: 1em; }
 
-/* Responsive */
-@media screen and (max-width: 980px) {
-  .article {
-    flex-direction: column; }
-  .article img {
-    width: 100%; }
-  .article .content {
-    padding: 1em; }
-}
   @media screen and (max-width: 1680px) {
     .row {
       display: flex;
