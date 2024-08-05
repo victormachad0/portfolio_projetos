@@ -1,0 +1,17 @@
+article {
+    margin: 20px 0;
+    text-align: center;
+}
+
+article img {
+    max-width: 100%;
+    height: auto;
+}
+
+ul.actions {
+    text-align: center;
+}
+
+button {
+    margin: 10px;
+}
